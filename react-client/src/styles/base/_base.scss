@@ -1,0 +1,252 @@
+#pa{
+    font-size: 2rem;
+    font-family: Rajdhani;
+    font-weight: bold;
+}
+body {
+    font-family: Rajdhani;
+    color: DARKBLUE;
+    font-size: 1.6rem;
+    background: #f2f7fb;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+#search {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+.Message{
+    color:red;
+}
+.SuccessMessage{
+    color:green;
+}
+#posts {
+    font-family: Helvetica, Arial, sans-serif;
+    color: blue;
+    font-size: 1.6rem;
+    background-color: lightblue;
+
+}
+
+
+#HNA {
+    background-color: STEELBLUE;
+}
+
+#Na {
+    font-family: Acme;
+}
+
+#Na a {
+    text-decoration:none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+
+}
+
+li a:hover:not(.is-active) {
+    background-color: #35bcf8;
+}
+
+.is-active {
+    background-color: #104e8b;
+ 
+}
+
+#search-button {
+    background-color: STEELBLUE;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 2px;
+    cursor: pointer;
+    border-radius: 20%
+
+}
+
+.Sform-control {
+    height: 40px;
+    width: 175px;
+    font-size: 17px;
+    margin: 0px 3px;
+
+}
+
+#catagory {
+    margin: auto;
+}
+
+#catB {
+  width: 375px;
+  height: 50px;
+  margin: 10px;
+}
+
+#catI {
+  width: 375px;
+  height: 50px;
+}
+
+#catJ {
+  width: 175px;
+  height: 35px;
+}
+
+#catJobs{
+  width: 175px;
+  height: 35px;
+}
+
+#txtArea {
+  width: 550px;
+  height: 120px;
+  resize: none;      
+}
+
+.jobsDiv {
+    background: url(https://slack-imgs.com/?c=1&url=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Fpolygonal-space-background-with-connecting-dots-and-lines_8188-135.jpg);
+    opacity: 0.8;
+    border-radius: 10px; 
+    width: 900;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: black;
+}
+
+#userjob {
+    color: black;
+    font-size: 18px;
+}
+
+#b {
+    color: #c7c7c7
+}
+
+.wrapper {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.form-signin {
+    width: 430px;
+    padding: 10px 38px 50px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.form-signin-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#logform {
+    border-radius: 10px; 
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+
+#loguser[type="text"] {
+    margin-bottom: 0px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 340px;
+    height: 40px;
+    font-size: 18px
+}
+
+#logpass[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    width: 340px;
+    height: 40px;
+    font-size: 18px
+}
+
+#logb {
+    width: 100px;
+    height: 55px;
+}
+
+#jobb {
+    width: 100px;
+    height: 55px;
+}
+
+#jobform {
+    font-size: 17px;
+    width: 900px;
+    border-radius: 10px; 
+    background : #FFF;
+}
+
+#req {
+   font-size: 15px; 
+}
+
+#postTime {
+  color: green;
+  font-size: 12px;
+}
+
+#postDiv {
+  font-family: Mina;
+  color: #141414;
+  font-size: 18px;
+}
+
+#profileUpdate {
+  width: 900px;
+  border-radius: 10px;  
+  background: #FFF;
+}
+
+#signlable {
+  text-align: left;
+}
+
+#description {
+ text-align: left; 
+}
+
+.outerBorder{
+    padding: 20px;;
+    border: 1px solid #42e8f3;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 3px 0px #11aac4;
+    -moz-box-shadow:    0px 0px 3px 0px #11aac4;
+    box-shadow:         0px 0px 3px 0px #11aac4;
+}
